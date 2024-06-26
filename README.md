@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hanqi Chen
+- 👋 Hi, I’m @Jiaqi Chen
 - 👀 I’m interested in Computer Vision!
 - 🌱 I’m currently learning Spiking Neuron Network!
 - 💞️ I’m looking to collaborate on oops, I don't know.
